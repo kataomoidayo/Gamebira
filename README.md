@@ -2,7 +2,7 @@ Gamebira adalah sebuah game edukasi Bahasa Inggris untuk anak-anak Sekolah Dasar
 <br>
 Gamebira is an English educational game designed for elementary school children.
 <br>
-Gamebiraは小学生向けの知育ゲームです。
+Gamebira（ゲームビラ）は小学生向けの英語知育ゲームです。
 
 <br>
 <img src ="https://github.com/kataomoidayo/Gamebira/assets/114056087/e4649d69-db07-457b-b011-a6b49b3f7603"/>
